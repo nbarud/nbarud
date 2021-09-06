@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding languages
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... my gmail nbarud171@gmail.com
+- 📫 How to reach me ... 
 
 <!---
 nbarud/nbarud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
